@@ -1,8 +1,7 @@
-# 2014 夜間講座
+HTML5 基礎
+==========
 
-## HTML5 基礎
-
-### 第1講
+## 第1講
 
 講座で使用する環境のセッティング
 
@@ -21,4 +20,4 @@
 - SubLime Editor
     - [Sublime Text Editor](http://www.sublimetext.com/3)
 
-### 第2講
+## 第2講
