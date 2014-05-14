@@ -11,7 +11,7 @@ sublime 3 text editor implements
 ## Settings
 
 ### [Add Package Control](https://sublime.wbond.net/installation)
-- open sublime 
+- open sublime
     - view  -> show console [or ctrl + `]
     - paste -> import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by))
 
@@ -35,6 +35,16 @@ sublime 3 text editor implements
         - paste https://github.com/yasuyuky/SublimeMozcInput
     - type install
         - type SublimeMozcInput
+
+### Configure
+- preferance -> user keybind
+[
+    {
+        "keys": ["alt+shift+f"], "command": "reindent" , "args": { "single_line": false }
+    }
+]
+- preferance -> user settings
+
 
 
 ### [Install other plugin](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
