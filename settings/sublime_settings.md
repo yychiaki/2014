@@ -54,6 +54,7 @@ sublime 3 text editor implements
 - tool -> commandPalette [or control + shift + p]
     - type install
         - type emmet
+
 #### [Install other]
 - HTML5
 - HTML5Attribute
