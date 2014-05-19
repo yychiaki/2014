@@ -24,10 +24,9 @@ Git & GitHub & GitHubPage Settings
     - setting -> default -> gh-pages
 - Wait about 10 minites 
 - Clone Repository
-    - $git clone https://github.com/__username__/__repositoryname__
+    - $git clone https://github.com/ __username__ / __repositoryname__
     - $cd __repository__
     - $echo "test" > index.html
     - $git add index.html
-    - $git commit -a -m "add index"
+    - $git commit -a -m "add index.html"
     - $git push -u origin gh-pages
-
