@@ -6,6 +6,7 @@ HTML5 基礎
 講座で使用する環境のセッティング
 
 - git install & Settings
+    - [Settings](./settings/git_settings.md)
     - [Git](http://git-scm.com/)
     - [Git Document](http://git-scm.com/documentation)
     - [Gitとは](http://ja.wikipedia.org/wiki/Git)
