@@ -19,7 +19,7 @@ HTML5 基礎
 - Sample Source Download
     - [HTML5&CSS3 ステップアップブック](http://www.socym.co.jp/book/815)
 - SubLime Editor
-    - [Sublime Text Editor](http://www.sublimetext.com/3)
     - [Settings](./settings/sublime_settings.md)
+    - [Sublime Text Editor](http://www.sublimetext.com/3)
 
 ## 第2講
